@@ -39,5 +39,15 @@ if (place_meeting(x,y+vsp,obj_invisble_wall))
 }
 y = y + vsp;
 
+//Animation
+if (!place_meeting(x,y+1,obj_invisble_wall))
+{
+	sprite_index = sprt_jump;
+	image_speed = 0;
+	if (vsp > 0) image_index = 1; else image_index = 0;
+	
+	
+}
+
 
 
