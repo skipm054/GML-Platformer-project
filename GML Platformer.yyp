@@ -11,6 +11,7 @@
     {"id":{"name":"sprt_cloud","path":"sprites/sprt_cloud/sprt_cloud.yy",},"order":7,},
     {"id":{"name":"sprt_invisble_wall","path":"sprites/sprt_invisble_wall/sprt_invisble_wall.yy",},"order":1,},
     {"id":{"name":"sprt_rain","path":"sprites/sprt_rain/sprt_rain.yy",},"order":8,},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
     {"id":{"name":"sprt_character","path":"sprites/sprt_character/sprt_character.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
